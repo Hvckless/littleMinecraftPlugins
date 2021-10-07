@@ -1,0 +1,5 @@
+name: JumpPad
+version: 1.0
+main: com.hackless.testJavaPlugin.Main
+author: Hvckless
+description: Jump pad plugin
