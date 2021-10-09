@@ -1,0 +1,5 @@
+name: randomItemOnDamage
+version: 1.0
+main: com.hackless.randomItemOnDamage.Main
+author: Hvckless
+description: make your inventory to randomly on got damaged
